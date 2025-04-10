@@ -1,4 +1,4 @@
-% Copyright 2024 by Georgy Moshkin <georgy@techsponsor.io>
+% Copyright 2024 by Georgy Moshkin <georgy.moshkin@outlook.com>
 % More openEMS examples: https://www.udemy.com/antenna-arrays
 %
 % Notes:
